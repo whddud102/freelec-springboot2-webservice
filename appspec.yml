@@ -2,7 +2,7 @@ version : 0.0
 os : linux
 files :
   - source : /
-    destination : /home/ec2-user/app/step2/zip/
+    destination : /home/ec2-user/app/step3/zip/ # 배포하고자 하는 위치
     overwrite : yes
 
 permission:
