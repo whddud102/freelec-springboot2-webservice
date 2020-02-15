@@ -32,5 +32,4 @@ function find_idle_profile() {
     else
       echo "8082"
     fi
-  }
 }
